@@ -13,6 +13,16 @@
     cursor: pointer;
 }
 
+#icon-heroku {
+    margin-top: 2px;
+    margin-right: 10px;
+}
+
+#icon-github {
+    margin-top: 2px;
+    margin-right: 10px;
+}
+
 .bg-black {
     color: white;
     background: black;
