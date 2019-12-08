@@ -4,10 +4,6 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '2.6.3'
 
 
-gem 'figaro'
-
-gem 'twilio-ruby', '~> 5.30.0'
-
 gem 'travis'
 
 gem 'rspec'
