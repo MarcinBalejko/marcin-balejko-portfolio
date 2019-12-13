@@ -34,4 +34,6 @@
     }
 }
 
-
+.special-image {
+    border: solid rgb(226, 221, 221) 1px;
+}
