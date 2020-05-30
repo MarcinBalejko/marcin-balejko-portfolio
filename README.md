@@ -1,6 +1,6 @@
-Marcin Balejko Portfolio
+Rails Portfolio
 ========
-My portfolio containing all of my projects and contact information.
+A simple portfolio app made with Ruby on rails
 ----------
 
 
